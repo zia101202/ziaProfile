@@ -57,15 +57,15 @@
 
 <div align="center">
 
-<!-- 🟢 PRIMARY: Most Stable Mirror (Rickstaa) -->
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zia101202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/zia101202)
-
-<!-- 🔵 BACKUP: Summary Cards (Clean UI) -->
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zia101202&theme=tokyonight)](https://github.com/zia101202)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zia101202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/zia101202)
 
 </div>
 
-**If stats don't load:** View my activity at [github.com/zia101202](https://github.com/zia101202)
+**Profile Overview:**
+- 💻 11 Contributions in 2026
+- 📦 17 Public Repositories
+- 📅 GitHub Member since 2024
+- 🔗 [@zia101202](https://github.com/zia101202)
 
 ---
 
@@ -73,15 +73,16 @@
 
 <div align="center">
 
-<!-- 🟢 PRIMARY: Rickstaa Mirror (Most Stable) -->
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zia101202&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zia101202)
-
-<!-- 🔵 BACKUP: Summary Cards Language View -->
-[![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zia101202&theme=tokyonight)](https://github.com/zia101202)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zia101202&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/zia101202)
 
 </div>
 
-**Primary Languages:** JavaScript, TypeScript, Python, SQL
+**Languages & Proficiency:**
+- **TypeScript** - Advanced
+- **JavaScript** - Advanced
+- **Python** - Intermediate
+- **SQL** - Intermediate
+- **HTML/CSS** - Advanced
 
 ---
 
@@ -89,8 +90,7 @@
 
 <div align="center">
 
-<!-- 🟢 PRIMARY: Streak Stats (Very Reliable) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=zia101202&theme=tokyonight)](https://github.com/zia101202)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zia101202&theme=tokyonight&hide_border=true)](https://github.com/zia101202)
 
 </div>
 
@@ -100,37 +100,43 @@
 
 <div align="center">
 
-<!-- 🔵 BACKUP: Activity Graph (Fallback) -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zia101202&theme=tokyo-night&hide_border=true)](https://github.com/zia101202)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zia101202&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7d8590&line=7d8590&point=c678dd)](https://github.com/zia101202)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<!-- Achievement Badges -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=zia101202&theme=algolia&row=1&column=7)](https://github.com/zia101202)
+**Key Milestones:**
+- ⭐ Active GitHub Contributor
+- 🔧 Full-Stack Developer
+- 🚀 Open Source Enthusiast
+- 💡 Problem Solver
+
+**View My Full Profile:** [github.com/zia101202](https://github.com/zia101202)
 
 </div>
 
 ---
 
-## ⏱️ Coding Activity
+## ⏱️ Coding Activity & Productivity
 
 <div align="center">
 
-<!-- WakaTime Badge with User ID -->
-[![WakaTime Badge](https://wakatime.com/badge/user/37a9db5c-004a-42c4-98bb-1fd94407532c.svg?style=plastic)](https://wakatime.com/@37a9db5c-004a-42c4-98bb-1fd94407532c)
-
-<!-- WakaTime Stats Card -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zia101202&layout=compact&theme=tokyonight)](https://wakatime.com)
+[![WakaTime Badge](https://wakatime.com/badge/user/37a9db5c-004a-42c4-98bb-1fd94407532c.svg?style=flat-square&color=414141)](https://wakatime.com/@37a9db5c-004a-42c4-98bb-1fd94407532c)
 
 </div>
 
-**Tracking coding activity and productivity metrics on [WakaTime](https://wakatime.com/@37a9db5c-004a-42c4-98bb-1fd94407532c)**
+**Real-Time Coding Metrics:**
+- 📊 Tracking development time & productivity
+- 💻 Language breakdown & project focus
+- ⚡ Daily coding insights & patterns
+- 🎯 Performance optimization tracking
+
+**View Full Analytics:** [wakatime.com/@37a9db5c-004a-42c4-98bb-1fd94407532c](https://wakatime.com/@37a9db5c-004a-42c4-98bb-1fd94407532c)
 
 ---
 
