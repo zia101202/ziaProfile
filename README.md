@@ -122,15 +122,15 @@
 
 <div align="center">
 
-<!-- Update YOUR_USER_ID after connecting WakaTime -->
-[![WakaTime Badge](https://wakatime.com/badge/user/YOUR_USER_ID.svg?style=plastic)](https://wakatime.com)
+<!-- WakaTime Badge with User ID -->
+[![WakaTime Badge](https://wakatime.com/badge/user/37a9db5c-004a-42c4-98bb-1fd94407532c.svg?style=plastic)](https://wakatime.com/@37a9db5c-004a-42c4-98bb-1fd94407532c)
 
-<!-- Stat card placeholder for WakaTime data -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zia101202&layout=compact&theme=tokyonight)
+<!-- WakaTime Stats Card -->
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zia101202&layout=compact&theme=tokyonight)](https://wakatime.com)
 
 </div>
 
-**Note:** Update your WakaTime User ID in the badge after connecting your account.
+**Tracking coding activity and productivity metrics on [WakaTime](https://wakatime.com/@37a9db5c-004a-42c4-98bb-1fd94407532c)**
 
 ---
 
