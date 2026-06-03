@@ -1,25 +1,21 @@
 # 🚀 Hi, I'm Zia ur Rehman 👋
 
-**Full-Stack Developer | React | Node.js | AI Systems | QA Tester**  
-💻 Building scalable applications with clean architecture  
-⚡ Passionate about performance, automation, and real-world problem-solving
+💻 Full-Stack Developer | React | Node.js | AI Systems | QA Tester  
+🧪 API Testing & Clean Architecture Enthusiast  
+⚡ Passionate about scalable apps, performance & real-world systems
 
----
-
-## 📝 Professional Summary
-
-Software Developer experienced in building full-stack web applications and AI-powered systems. Skilled in JavaScript, React, Next.js, Node.js, and Supabase. Built real-world systems including event management platforms, AI video generation pipelines (FFmpeg, Whisper, TTS), and QA testing workflows. Focused on clean architecture, performance, and scalable systems.
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Zia%20ur%20Rehman&fontSize=35&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20Builder&descSize=20&descAlignY=70)
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Full-Stack Development** - React, Next.js, Node.js, TypeScript
-- 🤖 **AI Systems** - Video generation pipelines, automation, machine learning integration
-- 🏗️ **Platform Developer** - Event management systems, scalable architectures
-- 🧪 **QA Testing Expert** - Manual testing, API testing, Postman, debugging
-- 🏛️ **Clean Architecture** - Design patterns, SOLID principles, performance optimization
-- 📚 **Continuous Learning** - Always exploring new technologies and best practices
+- 💻 **Full-Stack Developer** specializing in React, Next.js, and Node.js
+- 🤖 **AI Systems Builder** - Experience with AI video generation pipelines (FFmpeg, Whisper, TTS)
+- 🏗️ **Platform Developer** - Built event management systems and scalable applications
+- 🧪 **QA Testing Expert** - Manual testing, API testing with Postman, comprehensive test cases
+- 🏛️ **Clean Architecture Advocate** - Focused on maintainable, scalable, and performant code
+- 📚 **Continuous Learner** - Always exploring new technologies and best practices
 
 ---
 
@@ -28,26 +24,26 @@ Software Developer experienced in building full-stack web applications and AI-po
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Backend & APIs**
+### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **Databases & Backend Services**
+### **Database & Backend Services**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Tools & DevOps**
+### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **AI & Media Processing**
@@ -61,10 +57,13 @@ Software Developer experienced in building full-stack web applications and AI-po
 
 <div align="center">
 
-<!-- Primary GitHub Stats (most stable) -->
+<!-- Profile Summary Card (Most Stable) -->
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zia101202&theme=tokyonight)](https://github.com/zia101202)
+
+<!-- Stats Mirror (Rickstaa - Most Reliable Backup) -->
 [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zia101202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/zia101202)
 
-<!-- Backup Stats Option -->
+<!-- Primary Stats (Vercel) -->
 [![GitHub Stats Backup](https://github-readme-stats.vercel.app/api?username=zia101202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/zia101202)
 
 </div>
@@ -77,11 +76,11 @@ Software Developer experienced in building full-stack web applications and AI-po
 
 <div align="center">
 
-<!-- Primary Top Languages (most stable) -->
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zia101202&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zia101202?tab=repositories)
+<!-- Most Stable Language Stats -->
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zia101202&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zia101202)
 
-<!-- Backup Top Languages -->
-[![Top Langs Backup](https://github-readme-stats.vercel.app/api/top-langs/?username=zia101202&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zia101202?tab=repositories)
+<!-- Backup Languages -->
+[![Top Languages Backup](https://github-readme-stats.vercel.app/api/top-langs/?username=zia101202&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zia101202)
 
 </div>
 
@@ -89,83 +88,103 @@ Software Developer experienced in building full-stack web applications and AI-po
 
 ---
 
-## 📈 GitHub Contribution Activity
+## 🔥 GitHub Streak Stats
 
 <div align="center">
 
-<!-- Primary Activity Graph -->
+<!-- GitHub Streak (Very Reliable) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=zia101202&theme=tokyonight)](https://github.com/zia101202)
+
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+
+<!-- Activity Graph (Most Popular) -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zia101202&theme=tokyo-night&hide_border=true)](https://github.com/zia101202)
 
 </div>
 
-**If graph doesn't load:** Check my [GitHub profile](https://github.com/zia101202) for contribution history
-
 ---
 
-## ⏱️ Coding Activity (WakaTime)
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-**Tracking coding activity on [WakaTime](https://wakatime.com)**
-
-*Connect your WakaTime account to see detailed coding statistics*
+<!-- GitHub Trophy (Achievement Badge) -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=zia101202&theme=algolia&row=1&column=7)](https://github.com/zia101202)
 
 </div>
+
+---
+
+## ⏱️ Coding Activity
+
+<div align="center">
+
+<!-- Update YOUR_USER_ID after connecting WakaTime -->
+[![WakaTime Badge](https://wakatime.com/badge/user/YOUR_USER_ID.svg?style=plastic)](https://wakatime.com)
+
+<!-- Stat card placeholder for WakaTime data -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zia101202&layout=compact&theme=tokyonight)
+
+</div>
+
+**Note:** Update your WakaTime User ID in the badge after connecting your account.
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🤖 AI Video Generation System
-Intelligent video generation pipeline with advanced media processing  
+> Intelligent video generation pipeline with FFmpeg, Whisper speech recognition, and TTS capabilities
 - Real-time video processing and transcription
-- Automated audio generation with speech synthesis
+- Automated audio generation with natural voice synthesis
 - Scalable architecture for batch processing
-- **Tech:** Node.js, FFmpeg, Whisper API, TTS APIs, MongoDB
+- **Tech:** Node.js, FFmpeg, Whisper, TTS APIs
 
-### 🎯 Event Management Platform  
-Full-stack platform for organizing and managing events at scale
+### 🎯 Event Management Platform
+> Full-stack platform for organizing and managing events at scale
 - User authentication and authorization
 - Real-time event updates and notifications
-- Payment integration and scheduling system
 - Database optimization for high-performance queries
-- **Tech:** React, Next.js, Node.js, Supabase, PostgreSQL, Stripe
+- **Tech:** React, Next.js, Node.js, Supabase, MongoDB
 
 ### 🧪 QA Testing Framework
-Comprehensive testing framework for API validation and quality assurance
+> Comprehensive testing framework for API validation and quality assurance
 - Automated test case generation and execution
 - API testing with Postman and custom scripts
-- Performance benchmarking and detailed reporting
-- **Tech:** Postman, Node.js, JavaScript, Jest, Chai
+- Performance benchmarking and reporting
+- **Tech:** Postman, Node.js, JavaScript, Testing frameworks
 
 ---
 
-## 💼 What I Do
+## 🎯 What I Do
 
-### 💻 **Full-Stack Development**
+### 💻 Development
 - Build scalable full-stack web applications
 - Create responsive and intuitive user interfaces
-- Design robust backend systems and RESTful APIs
+- Design robust backend systems and APIs
 - Integrate AI and machine learning capabilities
-- Optimize performance and database queries
 
-### 🧪 **Quality Assurance & Testing**
+### 🧪 Quality Assurance
 - Perform comprehensive manual and automated testing
 - Create detailed test cases and documentation
 - Validate APIs and backend systems
 - Debug and troubleshoot complex issues
-- Performance testing and load optimization
 
-### 🏗️ **Architecture & System Design**
+### 🏗️ Architecture & Design
 - Design clean, maintainable code structures
-- Implement design patterns and SOLID principles
+- Implement design patterns and best practices
 - Optimize performance and scalability
-- Plan and document system architecture
-- Mentor and collaborate with teams
+- Mentor and collaborate with development teams
 
 ---
 
-## 🔗 Let's Connect
+## � Let's Connect
 
 <div align="center">
 
@@ -178,25 +197,21 @@ Comprehensive testing framework for API validation and quality assurance
 
 ---
 
-## 🎯 What's Next?
+## 📝 Latest Thoughts
 
-- 🌟 Building AI-powered applications at scale
-- 💡 Exploring advanced system architecture patterns
+- 🌟 Building scalable systems that solve real-world problems
+- 💡 Exploring new paradigms in AI and automation
 - 📚 Contributing to open-source communities
-- 🚀 Optimizing for performance and scalability
-- 🔍 Deepening expertise in machine learning integration
+- 🚀 Always optimizing for performance and clean code
 
 ---
 
 <div align="center">
 
-### ⭐ Found something useful? Give it a star!
+### ⭐ If you find my projects helpful, please consider giving them a star!
 
-[![GitHub Followers](https://img.shields.io/github/followers/zia101202?style=social&label=Follow)](https://github.com/zia101202)
+[![GitHub followers](https://img.shields.io/github/followers/zia101202?label=Follow&style=social)](https://github.com/zia101202)
 
----
-
-*Crafted with passion for clean code and scalable systems*  
 *Last Updated: June 2026*
 
 </div>
