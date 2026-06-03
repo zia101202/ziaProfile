@@ -58,7 +58,7 @@
 <div align="center">
 
 <!-- 🟢 PRIMARY: Most Stable Mirror (Rickstaa) -->
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zia101202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/zia101202)
+[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zia101202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/zia101202)
 
 <!-- 🔵 BACKUP: Summary Cards (Clean UI) -->
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zia101202&theme=tokyonight)](https://github.com/zia101202)
