@@ -57,14 +57,11 @@
 
 <div align="center">
 
-<!-- Profile Summary Card (Most Stable) -->
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zia101202&theme=tokyonight)](https://github.com/zia101202)
-
-<!-- Stats Mirror (Rickstaa - Most Reliable Backup) -->
+<!-- 🟢 PRIMARY: Most Stable Mirror (Rickstaa) -->
 [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zia101202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/zia101202)
 
-<!-- Primary Stats (Vercel) -->
-[![GitHub Stats Backup](https://github-readme-stats.vercel.app/api?username=zia101202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/zia101202)
+<!-- 🔵 BACKUP: Summary Cards (Clean UI) -->
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zia101202&theme=tokyonight)](https://github.com/zia101202)
 
 </div>
 
@@ -76,11 +73,11 @@
 
 <div align="center">
 
-<!-- Most Stable Language Stats -->
+<!-- 🟢 PRIMARY: Rickstaa Mirror (Most Stable) -->
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zia101202&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zia101202)
 
-<!-- Backup Languages -->
-[![Top Languages Backup](https://github-readme-stats.vercel.app/api/top-langs/?username=zia101202&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zia101202)
+<!-- 🔵 BACKUP: Summary Cards Language View -->
+[![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zia101202&theme=tokyonight)](https://github.com/zia101202)
 
 </div>
 
@@ -92,7 +89,7 @@
 
 <div align="center">
 
-<!-- GitHub Streak (Very Reliable) -->
+<!-- 🟢 PRIMARY: Streak Stats (Very Reliable) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=zia101202&theme=tokyonight)](https://github.com/zia101202)
 
 </div>
@@ -103,7 +100,7 @@
 
 <div align="center">
 
-<!-- Activity Graph (Most Popular) -->
+<!-- 🔵 BACKUP: Activity Graph (Fallback) -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zia101202&theme=tokyo-night&hide_border=true)](https://github.com/zia101202)
 
 </div>
@@ -114,7 +111,7 @@
 
 <div align="center">
 
-<!-- GitHub Trophy (Achievement Badge) -->
+<!-- Achievement Badges -->
 [![Trophy](https://github-profile-trophy.vercel.app/?username=zia101202&theme=algolia&row=1&column=7)](https://github.com/zia101202)
 
 </div>
